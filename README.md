@@ -6,7 +6,7 @@ A bot for streaming in Telegram live streams.
 
 ### Use a Cloud Platform
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/trtmp)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indesitpost/trtmp)
 
 ### Manually
 
@@ -23,12 +23,12 @@ mkdir trtmp && cd $_
 ```
 
 2. Download a binary from the
-   [latest release](https://github.com/callsmusic/trtmp/releases/latest). If
+   [latest release](https://github.com/indesitpost/trtmp/releases/latest). If
    you’re on Debian or a Debian-based Linux distribution, you can just run the
    following:
 
 ```bash
-curl -s https://raw.githubusercontent.com/callsmusic/trtmp/main/scripts/install.debian.sh | bash
+curl -s https://raw.github.com/indesitpost/trtmp/main/scripts/install.debian.sh | bash
 ```
 
 #### Configure
